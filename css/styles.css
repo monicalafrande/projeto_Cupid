@@ -48,7 +48,7 @@
 
 /*Main banner*/
 .main {
-    background-image: url(/projeto3_meu/img/mainbanner.jpg);
+    background-image: url(/projeto_Cupid/img/mainbanner.jpg);
     background-position: center;
     background-size: cover;
     padding: 9rem 0;
@@ -299,7 +299,7 @@ h3 {
 
 /*Footer*/
 footer {
-    background-image: url(/projeto3_meu/img/cupidologo.png);
+    background-image: url(/projeto_Cupid/img/cupidologo.png);
     background-size: 100px;
     height: 100px;
 }
